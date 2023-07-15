@@ -1,0 +1,16 @@
+.github-button {
+    background-color: rgb(46, 164, 79);
+    color: white;
+    border-width: 0;
+    height: 36px;
+    width: 78px;
+    border-radius: 4px;
+    margin-right: 8px;
+    margin-bottom: 8px;
+    cursor: pointer;
+    transition: box-shadow 0.2s;
+  }
+
+  .github-button:hover {
+    box-shadow: 1px 5px 10px rgba(0, 0, 0, 0.4);
+  }

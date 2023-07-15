@@ -1,0 +1,25 @@
+.YTmusic {
+  background-color: black;
+  color: white;
+  width: 375px;
+  height: 120px;
+  font-family: Arial;
+}
+
+p {
+  position: relative;
+  top: 16px;
+  left: 10px;
+}
+
+.first_row_YTmusic {
+  font-size: x-large;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
+
+.second_row_YTmusic {
+  font-size: medium;
+  color: #606060;
+  
+}

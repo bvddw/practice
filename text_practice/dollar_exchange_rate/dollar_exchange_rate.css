@@ -1,0 +1,26 @@
+p {
+  font-family: Arial;
+  margin-top: 0;
+  margin-bottom: 10px;
+}
+
+.current-exchange-rate {
+  font-size: 30px;
+}
+
+.USD {
+  font-size: 15px;
+  color: #606060;
+}
+
+.changing-for-today {
+  color: green;
+}
+
+.new-exchange-rate {
+  color: #606060;
+}
+
+.new-changes {
+  color: red;
+}

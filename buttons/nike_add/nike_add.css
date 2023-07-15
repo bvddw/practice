@@ -1,0 +1,59 @@
+.amazon-link {
+  color: slateblue;
+  transition: color 0.2s;
+}
+
+.amazon-link:hover {
+  color: orangered;
+}
+
+.nike-shoes {
+  font-size: xx-large;
+  font-weight: bold;
+}
+
+.in-stock {
+  color: forestgreen;
+  font-weight: bold;
+  font-size: larger;
+}
+
+.delivery {
+  font-size: large;
+}
+
+.add-button {
+  background-color: #ffef28;
+  height: 36px;
+  width: 100px;
+  border-width: 0;
+  border-radius: 18px;
+  cursor: pointer;
+  transition: background-color .15s;
+}
+
+.add-button:hover {
+  background-color: #ffc719;
+}
+
+.add-button:active {
+  opacity: 0.6;
+}
+
+.buy-button {
+  background-color: orange;
+  height: 36px;
+  width: 100px;
+  border-width: 0;
+  border-radius: 18px;
+  cursor: pointer;
+  transition: background-color 0.15s;
+}
+
+.buy-button:hover {
+  background-color: #ff7b00
+}
+
+.buy-button:active {
+  opacity: 0.6;
+}

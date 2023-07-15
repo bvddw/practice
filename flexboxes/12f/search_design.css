@@ -1,0 +1,38 @@
+.search_design {
+  background-color: blueviolet;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  height: 50px;
+  align-items: center;
+}
+
+.download_buton {
+  background-color: blueviolet;
+  height: 40px;
+  font-size: large;
+  margin-right: 10px;
+  border-color: white;
+  color: white;
+  border-width: 1px;
+  border-radius: 3px;
+  cursor: pointer;
+}
+
+.home_button {
+  color: white;
+  margin-left: 15px;
+  cursor: pointer;
+  font-size: large;
+}
+
+.home_button:hover {
+  text-decoration: underline;
+}
+
+.search_place {
+  height: 30px;
+  width: 300px;
+  border-radius: 15px;
+  border-width: 0;
+}

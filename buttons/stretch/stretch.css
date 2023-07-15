@@ -1,0 +1,12 @@
+.stretch {
+  background-color: green;
+  border-width: 0;
+  color: white;
+  padding: 8px 12px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+
+.stretch:hover {
+  padding: 18px 24px;
+}

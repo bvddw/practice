@@ -1,0 +1,26 @@
+p {
+  font-family: Arial;
+  margin-bottom: 0;
+  margin-top: 0;
+  text-align: center;
+}
+
+.shopping-add-title {
+  font-weight: bold;
+  font-size: 24px;
+  margin-bottom: 13px;
+}
+
+.add-shopping-info {
+  font-size: 16px;
+  margin-bottom: 13px;
+}
+
+.add-link {
+  color: blue;
+  cursor: pointer;
+}
+
+.add-link:hover {
+  text-decoration: underline;
+}

@@ -1,0 +1,35 @@
+.bootstrap-start-button {
+        background-color: rgb(121, 82, 179);
+        color: white;
+        border-width: 0;
+        height: 36px;
+        width: 120px;
+        border-radius: 3px;
+        font-weight: bold;
+        margin-right: 8px;
+        cursor: pointer;
+        transition: background-color 0.2s;
+    }
+
+    .bootstrap-start-button:hover {
+        background-color: blueviolet;
+    }
+
+    .bootstrap-download-button {
+        background-color: white;
+        border-color: rgb(108, 117, 125);
+        color: rgb(108, 117, 125);
+        height: 36px;
+        width: 120px;
+        border-radius: 3px;
+        border-width: 1px;
+        font-weight: bold;
+        cursor: pointer;
+        transition: background-color 0.22s,
+            color 0.2s;
+    }
+
+    .bootstrap-download-button:hover {
+        background-color: rgb(108, 117, 125);
+        color: white;
+    }

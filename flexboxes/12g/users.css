@@ -1,0 +1,50 @@
+.twitter-style {
+  display: flex;
+  flex-direction: column;
+}
+
+.twitter-user {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+}
+
+.profile-picture {
+  height: 60px;
+  width: 60px;
+  object-fit: cover;
+  object-position: center;
+  border-radius: 30px;
+}
+
+.picture-of-profile {
+  margin-right: 10px;
+}
+
+.user-info {
+  width: 300px;
+  line-height: 5px;
+}
+
+.user-name {
+  font-weight: bold;
+}
+
+.user-type,
+.popular-unpopular {
+  color: #606060;
+}
+
+.button-follow {
+  vertical-align: center;
+}
+
+.follow {
+  background-color: deepskyblue;
+  border-width: 0;
+  color: white;
+  padding: 10px 20px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+}

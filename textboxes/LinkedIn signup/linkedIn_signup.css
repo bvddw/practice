@@ -1,0 +1,36 @@
+p {
+  margin: 0 0;
+}
+
+.LinkedInFirstRow {
+  margin-bottom: 10px;
+}
+
+.LinkedInSignUp {
+  margin-left: 0;
+  border-width: 1px;
+  border-radius: 4px;
+  margin-bottom: 20px;
+  font-size: 20px;
+  width: 240px;
+}
+
+
+.LinkedInThirdRow {
+  margin-bottom: 20px;
+}
+
+.agree-and-join {
+  padding: 20px;
+  width: 245px;
+  color: white;
+  background-color: blue;
+  border-width: 0;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: opacity 0.2s;
+}
+
+.agree-and-join:hover {
+  opacity: 0.8;
+}
