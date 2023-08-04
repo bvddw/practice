@@ -2,12 +2,14 @@
   display: inline-block;
   vertical-align: top;
   margin-right: 5px;
+  text-align: center;
 }
 
-.img {
+.profile-picture {
   width: 200px;
   height: 200px;
-  background-color: lightblue;
+  object-fit: cover;
+  object-position: center;
 }
 
 p {
